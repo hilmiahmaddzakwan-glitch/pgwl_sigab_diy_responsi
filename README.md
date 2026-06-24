@@ -2,10 +2,6 @@
 
 Sistem Informasi Geospasial Kesiapsiagaan Bencana DIY
 
-public/images/readme/dashboard.png
-public/images/readme/peta.png
-public/images/readme/database.png
-public/images/readme/tentang.png
 
 ## Teknologi
 
